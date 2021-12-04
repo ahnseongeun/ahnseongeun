@@ -1,7 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안성은&fontSize=90)
+<!--div align="center"-->
+            
+## Info
+Hi there, I'm Seongeun a Backend Developer.
+- 💻 I'm currently working for ERP Developer
+- 🏫 I'm currently learning : Javascript
+- 🎯 To do list : Docker, Kubernetes, spring-cloud, react, shell-script   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnseongeun)](https://github.com/anuraghazra/github-readme-stats)    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ast3138)](https://solved.ac/ast3138)
+#### 🌱My Github stat   
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnseongeun)](https://github.com/anuraghazra/github-readme-stats)   
+
+#### 😄 My algorism stat   
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ast3138)](https://solved.ac/ast3138)   
+
+    
+<!--/div-->    
+            
+            
 <!--
 **ahnseongeun/ahnseongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
