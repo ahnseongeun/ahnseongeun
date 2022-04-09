@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/47744119/144702446-6174f11a-4017-4ef5-9462-5725775a902d.jpg"  width="1000" height="500"/>
-
 <!--div align="center"-->
 ## Info
 Hi there, I'm Seongeun a Backend Developer.
