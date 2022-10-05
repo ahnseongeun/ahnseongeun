@@ -1,9 +1,9 @@
 <!--div align="center"-->
 ## Info
 Hi there, I'm Seongeun a Backend Developer.
-- 💻 I'm currently working for ERP Developer
-- 🏫 I'm currently learning : Javascript
-- 🎯 To do list : Docker, Kubernetes, spring-cloud, react, shell-script   
+- 💻 I'm currently working for Software Developer
+- 🏫 I'm currently learning : Design Pattern
+- 🎯 To do list : Docker, Kubernetes, spring-cloud, javascript, shell-script, SQL tunning  
 
 </br>
 
