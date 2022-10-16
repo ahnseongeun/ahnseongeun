@@ -4,7 +4,7 @@ Hi there, I'm Seongeun a Backend Developer.
 - 💻 I'm currently working for Software Developer
 - 🏫 I'm currently learning : Design Pattern
 - 🎯 To do list : Docker, Kubernetes, spring-cloud, javascript, shell-script, SQL tunning
-- 📫 My blog : https://blog.naver.com/ast3138, https://velog.io/@ahnseongeun/
+- 📫 My blog : https://velog.io/@ahnseongeun/
 
 </br>
 
