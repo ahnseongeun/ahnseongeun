@@ -12,8 +12,8 @@ Hi there, I'm Seongeun a Backend Developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnseongeun)](https://github.com/anuraghazra/github-readme-stats)   
 
-#### 😄 My algorism stat   
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/generate_badge?boj=ast3138)](https://solved.ac/ast3138)   
+#### 😄 My algorism stat    
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ast3138)](https://solved.ac/ast3138)   
 
     
 <!--/div-->    
